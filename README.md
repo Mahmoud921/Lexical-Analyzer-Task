@@ -62,7 +62,3 @@ These tokens are the foundation for later stages like the **Parser** and **Seman
 2. Run the program.  
 3. Type or paste a line of C code.  
 4. Press **Enter** and view the output tokens immediately.
-
-## 📄 Notes
-This simple lexical analyzer is the first step toward building a full compiler.  
-In future versions, we can extend it with a **Parser** to validate syntax and build an **Abstract Syntax Tree (AST)**.
