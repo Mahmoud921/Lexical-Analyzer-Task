@@ -1,0 +1,14 @@
+E:\iti month\Compiler Task\Compiler Task\bin\Debug\net9.0\Compiler Task.exe
+E:\iti month\Compiler Task\Compiler Task\bin\Debug\net9.0\Compiler Task.deps.json
+E:\iti month\Compiler Task\Compiler Task\bin\Debug\net9.0\Compiler Task.runtimeconfig.json
+E:\iti month\Compiler Task\Compiler Task\bin\Debug\net9.0\Compiler Task.dll
+E:\iti month\Compiler Task\Compiler Task\bin\Debug\net9.0\Compiler Task.pdb
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.AssemblyInfoInputs.cache
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.AssemblyInfo.cs
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.csproj.CoreCompileInputs.cache
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.dll
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\refint\Compiler Task.dll
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.pdb
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\Compiler Task.genruntimeconfig.cache
+E:\iti month\Compiler Task\Compiler Task\obj\Debug\net9.0\ref\Compiler Task.dll
