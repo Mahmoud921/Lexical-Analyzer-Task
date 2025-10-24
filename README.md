@@ -1,11 +1,11 @@
 # Compiler Design – Simple Lexical Analyzer (Scanner)
 
 ## 👥 Team Members
-- Mahmoud Ahmed  
-- Mazen Waleed
-- Hazem Essam  
-- ElHassan Ibrahim
-- Ahmed Gomaa 
+- Mahmoud Ahmed Gaber
+- Mazen Waleed Shehata
+- Hazem Essam Abdeltoab
+- ElHassan Ibrahim Mohamed
+- Ahmed Gomaa Abdelmonam
 
 ## 📘 Project Description
 This project is part of the **Compiler Design** course.  
